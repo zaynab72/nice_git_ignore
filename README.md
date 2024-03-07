@@ -1,0 +1,1 @@
+# nice_git_ignore
